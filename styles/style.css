@@ -208,15 +208,7 @@ header{
     margin-bottom: 120px;
 }
 
-.Subscribe input[type="email"]{
-    width: 500px;
-    padding: 12px 20px;
-    border: 2px solid #fff;
-    border-radius: 5px;
-    font-size: 16px;
-    color: #333;
-    text-align: left;
-}
+
 
 .Subscribe .btn-primary{
     margin-bottom: 0px;
