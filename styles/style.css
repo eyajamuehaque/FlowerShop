@@ -118,12 +118,7 @@ header{
     width: 300px;
 }
 
-.trusted-badge{
-    position: relative;
-    margin-top: -750px;
-    margin-left: 360px;
-    filter: drop-shadow(-4px 10px 4px rgba(0, 0, 0, 0.5));
-}
+
 
 .latest{
     margin-top: 250px;
