@@ -12,7 +12,9 @@
     "wdth" 100;
 }
 
-
+* {
+  box-sizing: border-box;
+}
 
 .inter-font {
   font-family: "Inter", sans-serif;
